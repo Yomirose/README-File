@@ -1,46 +1,13 @@
-# Weather-app-project
-The Weather App is a simple React application that allows users to search for the current weather conditions in any city worldwide. The app fetches weather data from the OpenWeatherMap API and displays temperature, humidity, and weather descriptions.
 
-## Features
-
-- Search for weather by city name.
-- Display current temperature, humidity, and weather conditions.
-- Responsive design for mobile and desktop views.
-- Error handling for incorrect city names.
-
-## Screenshots
-
-![Image Link](https://github.com/Yomirose/Weather-app-project/blob/main/image)
+# Interview Preparation and Final Review checkpoint
 
 
-## Tech Stack
+## Question 1: How ready are you to start the next step in your career path?
+ **Response**: "I feel well-prepared to take the next step in my career path. The skills and knowledge I've gained through my recent experiences, particularly during the Bootcamp in GOMYCODE, have equipped me with a solid foundation in modern web development. I'm confident in my ability to contribute to a team and take on new challenges, and I'm excited about the opportunities ahead to apply and expand my skill set."
 
-- HTML5
-- JavaScript
-- CSS3
-- OpenWeatherMap API
-
-## Installation
-
-Clone the repository:
-
-```bash
-  git clone https://github.com/Yomirose/Weather-App
-  
-```
-
-Navigate to the project directory:
-
-```bash
-  cd weather-app
-  
-```
+## Question 2: Any thoughts you want to share, especially about the skills you gained during the Bootcamp?
+ **Response**: "During the Bootcamp, I developed a deep understanding of various technologies and frameworks, including HTML5, CSS, JavaScript, React.js, and more. I also learned how to apply these skills in real-world projects, which has significantly boosted my confidence as a developer. Additionally, I honed my problem-solving abilities and learned the importance of continuous learning and adaptability in the tech industry. These experiences have not only made me technically proficient but also instilled in me a passion for innovation and growth."
 
 
-## Usage
 
-
-- Search for a City: Enter the name of the city in the search bar and press "Enter."
-
-- View Weather Information: The app will display the current temperature, humidity, and weather description for the searched city.
 
